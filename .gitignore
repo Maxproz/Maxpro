@@ -1,0 +1,734 @@
+Intermediate/Build/Win64/MaxproEditor/Development/Metadata.dat
+.vs/
+Binaries/
+Saved/Config/CrashReportClient/UE4CC-Windows-8ACEF2AB43668E367D3F708F8B6E2F0F/CrashReportClient.ini
+Intermediate/
+Content/2DSideScroller/Heroes/ai/Enemy1.ai
+Content/2DSideScroller/Heroes/ai/Enemy2.ai
+Content/2DSideScroller/Heroes/ai/Hero1.ai
+Content/2DSideScroller/Heroes/ai/Hero2.ai
+Content/2DSideScroller/Heroes/cdr/Enemy1X4.cdr
+Content/2DSideScroller/Heroes/cdr/Enemy2X4.cdr
+Content/2DSideScroller/Heroes/cdr/Hero1X4.cdr
+Content/2DSideScroller/Heroes/cdr/Hero2X4.cdr
+Content/2DSideScroller/Heroes/eps/Enemy1.eps
+Content/2DSideScroller/Heroes/eps/Enemy2.eps
+Content/2DSideScroller/Heroes/eps/Hero1.eps
+Content/2DSideScroller/Heroes/eps/Hero2.eps
+Content/2DSideScroller/Heroes/png/Enemy1.png
+Content/2DSideScroller/Heroes/png/Enemy2.png
+Content/2DSideScroller/Heroes/png/Hero1.png
+Content/2DSideScroller/Heroes/png/Hero2.png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy1/attack (1).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy1/attack (2).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy1/attack (3).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy1/attack (4).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy1/attack (5).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy1/attack (6).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy1/attack (7).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy1/attack (8).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy1/dead (1).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy1/dead (2).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy1/dead (3).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy1/dead (4).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy1/dead (5).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy1/dead (6).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy1/defend (1).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy1/defend (2).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy1/defend (3).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy1/defend (4).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy1/hurt (1).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy1/hurt (2).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy1/hurt (3).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy1/idle (1).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy1/idle (2).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy1/idle (3).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy1/idle (4).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy1/idle (5).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy1/idle (6).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy1/walk (1).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy1/walk (10).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy1/walk (11).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy1/walk (12).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy1/walk (2).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy1/walk (3).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy1/walk (4).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy1/walk (5).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy1/walk (6).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy1/walk (7).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy1/walk (8).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy1/walk (9).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy2/attack (1).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy2/attack (2).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy2/attack (3).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy2/attack (4).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy2/attack (5).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy2/attack (6).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy2/attack (7).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy2/attack (8).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy2/attack (9).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy2/dead (1).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy2/dead (2).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy2/dead (3).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy2/dead (4).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy2/dead (5).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy2/hurt (1).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy2/hurt (2).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy2/hurt (3).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy2/idle (1).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy2/idle (2).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy2/idle (3).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy2/idle (4).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy2/idle (5).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy2/idle (6).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy2/walk (1).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy2/walk (10).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy2/walk (11).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy2/walk (12).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy2/walk (2).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy2/walk (3).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy2/walk (4).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy2/walk (5).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy2/walk (6).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy2/walk (7).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy2/walk (8).png
+Content/2DSideScroller/Heroes/png/separate/1x/enemy2/walk (9).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/attack_crouch (1).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/attack_crouch (2).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/attack_crouch (3).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/attack_crouch (4).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/attack_crouch (5).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/attack_crouch (6).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/attack_jump (1).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/attack_jump (2).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/attack_jump (3).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/attack_jump (4).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/attack_jump (5).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/attack_jump (6).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/attack_jump (7).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/attack_jump (8).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/attack_jump (9).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/attack_stand (1).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/attack_stand (10).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/attack_stand (2).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/attack_stand (3).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/attack_stand (4).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/attack_stand (5).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/attack_stand (6).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/attack_stand (7).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/attack_stand (8).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/attack_stand (9).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/dead (1).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/dead (2).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/dead (3).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/dead (4).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/dead (5).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/dead (6).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/dead (7).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/defend_crouch (1).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/defend_crouch (2).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/defend_crouch (3).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/defend_crouch (4).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/defend_crouch (5).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/defend_stand (1).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/defend_stand (2).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/defend_stand (3).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/defend_stand (4).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/defend_stand (5).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/hurt (1).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/hurt (2).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/hurt (3).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/idle_crouch (1).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/idle_crouch (2).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/idle_crouch (3).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/idle_crouch (4).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/idle_crouch (5).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/idle_crouch (6).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/idle_stand (1).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/idle_stand (2).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/idle_stand (3).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/idle_stand (4).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/idle_stand (5).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/idle_stand (6).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/jump (1).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/jump (2).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/jump (3).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/jump (4).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/jump (5).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/jump (6).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/run (1).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/run (10).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/run (11).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/run (12).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/run (13).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/run (14).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/run (15).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/run (16).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/run (2).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/run (3).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/run (4).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/run (5).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/run (6).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/run (7).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/run (8).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/run (9).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/walk (1).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/walk (10).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/walk (11).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/walk (12).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/walk (2).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/walk (3).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/walk (4).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/walk (5).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/walk (6).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/walk (7).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/walk (8).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/walk (9).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/walk_crouch (1).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/walk_crouch (2).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/walk_crouch (3).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/walk_crouch (4).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/walk_crouch (5).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/walk_crouch (6).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/walk_crouch (7).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero1/walk_crouch (8).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/attack_crouch (1).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/attack_crouch (2).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/attack_crouch (3).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/attack_crouch (4).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/attack_crouch (5).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/attack_crouch (6).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/attack_crouch (7).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/attack_jump (1).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/attack_jump (2).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/attack_jump (3).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/attack_jump (4).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/attack_jump (5).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/attack_jump (6).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/attack_jump (7).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/attack_jump (8).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/attack_jump (9).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/attack_stand (1).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/attack_stand (10).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/attack_stand (2).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/attack_stand (3).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/attack_stand (4).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/attack_stand (5).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/attack_stand (6).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/attack_stand (7).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/attack_stand (8).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/attack_stand (9).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/dead (1).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/dead (2).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/dead (3).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/dead (4).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/dead (5).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/dead (6).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/defend_crouch (1).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/defend_crouch (2).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/defend_crouch (3).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/defend_crouch (4).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/defend_stand (1).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/defend_stand (2).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/defend_stand (3).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/defend_stand (4).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/hurt (1).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/hurt (2).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/hurt (3).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/idle_crouch (1).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/idle_crouch (2).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/idle_crouch (3).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/idle_crouch (4).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/idle_crouch (5).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/idle_crouch (6).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/idle_stand (1).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/idle_stand (2).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/idle_stand (3).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/idle_stand (4).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/idle_stand (5).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/idle_stand (6).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/jump (2).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/jump (3).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/jump (4).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/jump (5).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/jump (6).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/jump (7).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/run (1).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/run (10).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/run (11).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/run (12).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/run (13).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/run (14).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/run (15).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/run (16).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/run (2).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/run (3).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/run (4).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/run (5).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/run (6).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/run (7).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/run (8).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/run (9).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/walk (1).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/walk (10).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/walk (11).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/walk (12).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/walk (2).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/walk (3).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/walk (4).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/walk (5).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/walk (6).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/walk (7).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/walk (8).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/walk (9).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/walk_crouch (1).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/walk_crouch (2).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/walk_crouch (3).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/walk_crouch (4).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/walk_crouch (5).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/walk_crouch (6).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/walk_crouch (7).png
+Content/2DSideScroller/Heroes/png/separate/1x/hero2/walk_crouch (8).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy1/attack (1).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy1/attack (2).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy1/attack (3).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy1/attack (4).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy1/attack (5).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy1/attack (6).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy1/attack (7).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy1/attack (8).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy1/dead (1).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy1/dead (2).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy1/dead (3).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy1/dead (4).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy1/dead (5).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy1/dead (6).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy1/defend (1).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy1/defend (2).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy1/defend (3).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy1/defend (4).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy1/hurt (1).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy1/hurt (2).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy1/hurt (3).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy1/idle (1).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy1/idle (2).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy1/idle (3).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy1/idle (4).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy1/idle (5).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy1/idle (6).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy1/walk (1).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy1/walk (10).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy1/walk (11).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy1/walk (12).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy1/walk (2).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy1/walk (3).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy1/walk (4).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy1/walk (5).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy1/walk (6).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy1/walk (7).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy1/walk (8).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy1/walk (9).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy2/attack (1).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy2/attack (2).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy2/attack (3).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy2/attack (4).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy2/attack (5).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy2/attack (6).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy2/attack (7).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy2/attack (8).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy2/attack (9).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy2/dead (1).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy2/dead (2).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy2/dead (3).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy2/dead (4).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy2/dead (5).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy2/hurt (1).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy2/hurt (2).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy2/hurt (3).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy2/idle (1).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy2/idle (2).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy2/idle (3).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy2/idle (4).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy2/idle (5).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy2/idle (6).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy2/walk (1).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy2/walk (10).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy2/walk (11).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy2/walk (12).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy2/walk (2).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy2/walk (3).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy2/walk (4).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy2/walk (5).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy2/walk (6).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy2/walk (7).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy2/walk (8).png
+Content/2DSideScroller/Heroes/png/separate/2x/enemy2/walk (9).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/attack_crouch (1).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/attack_crouch (2).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/attack_crouch (3).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/attack_crouch (4).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/attack_crouch (5).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/attack_crouch (6).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/attack_jump (1).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/attack_jump (2).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/attack_jump (3).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/attack_jump (4).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/attack_jump (5).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/attack_jump (6).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/attack_jump (7).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/attack_jump (8).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/attack_jump (9).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/attack_stand (1).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/attack_stand (10).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/attack_stand (2).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/attack_stand (3).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/attack_stand (4).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/attack_stand (5).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/attack_stand (6).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/attack_stand (7).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/attack_stand (8).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/attack_stand (9).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/dead (1).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/dead (2).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/dead (3).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/dead (4).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/dead (5).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/dead (6).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/dead (7).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/defend_crouch (1).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/defend_crouch (2).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/defend_crouch (3).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/defend_crouch (4).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/defend_crouch (5).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/defend_stand (1).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/defend_stand (2).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/defend_stand (3).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/defend_stand (4).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/defend_stand (5).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/hurt (1).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/hurt (2).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/hurt (3).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/idle_crouch (1).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/idle_crouch (2).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/idle_crouch (3).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/idle_crouch (4).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/idle_crouch (5).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/idle_crouch (6).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/idle_stand (1).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/idle_stand (2).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/idle_stand (3).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/idle_stand (4).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/idle_stand (5).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/idle_stand (6).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/jump (1).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/jump (2).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/jump (3).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/jump (4).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/jump (5).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/jump (6).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/run (1).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/run (10).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/run (11).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/run (12).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/run (13).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/run (14).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/run (15).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/run (16).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/run (2).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/run (3).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/run (4).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/run (5).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/run (6).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/run (7).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/run (8).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/run (9).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/walk (1).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/walk (10).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/walk (11).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/walk (12).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/walk (2).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/walk (3).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/walk (4).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/walk (5).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/walk (6).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/walk (7).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/walk (8).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/walk (9).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/walk_crouch (1).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/walk_crouch (2).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/walk_crouch (3).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/walk_crouch (4).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/walk_crouch (5).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/walk_crouch (6).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/walk_crouch (7).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero1/walk_crouch (8).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/attack_crouch (1).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/attack_crouch (2).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/attack_crouch (3).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/attack_crouch (4).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/attack_crouch (5).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/attack_crouch (6).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/attack_crouch (7).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/attack_jump (1).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/attack_jump (2).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/attack_jump (3).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/attack_jump (4).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/attack_jump (5).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/attack_jump (6).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/attack_jump (7).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/attack_jump (8).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/attack_jump (9).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/attack_stand (1).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/attack_stand (10).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/attack_stand (2).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/attack_stand (3).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/attack_stand (4).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/attack_stand (5).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/attack_stand (6).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/attack_stand (7).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/attack_stand (8).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/attack_stand (9).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/dead (1).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/dead (2).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/dead (3).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/dead (4).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/dead (5).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/dead (6).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/defend_crouch (1).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/defend_crouch (2).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/defend_crouch (3).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/defend_crouch (4).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/defend_stand (1).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/defend_stand (2).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/defend_stand (3).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/defend_stand (4).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/hurt (1).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/hurt (2).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/hurt (3).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/idle_crouch (1).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/idle_crouch (2).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/idle_crouch (3).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/idle_crouch (4).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/idle_crouch (5).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/idle_crouch (6).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/idle_stand (1).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/idle_stand (2).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/idle_stand (3).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/idle_stand (4).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/idle_stand (5).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/idle_stand (6).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/jump (2).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/jump (3).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/jump (4).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/jump (5).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/jump (6).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/jump (7).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/run (1).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/run (10).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/run (11).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/run (12).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/run (13).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/run (14).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/run (15).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/run (16).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/run (2).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/run (3).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/run (4).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/run (5).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/run (6).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/run (7).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/run (8).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/run (9).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/walk (1).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/walk (10).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/walk (11).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/walk (12).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/walk (2).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/walk (3).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/walk (4).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/walk (5).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/walk (6).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/walk (7).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/walk (8).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/walk (9).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/walk_crouch (1).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/walk_crouch (2).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/walk_crouch (3).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/walk_crouch (4).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/walk_crouch (5).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/walk_crouch (6).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/walk_crouch (7).png
+Content/2DSideScroller/Heroes/png/separate/2x/hero2/walk_crouch (8).png
+Content/2DSideScroller/Materials/PrototypingSpriteMaterial.uasset
+Content/2DSideScroller/Sprites/Background_Sprite.uasset
+Content/2DSideScroller/Sprites/IdleAnimation.uasset
+Content/2DSideScroller/Sprites/Ledge.uasset
+Content/2DSideScroller/Sprites/PrototypingSprite.uasset
+Content/2DSideScroller/Sprites/RunningAnimation.uasset
+Content/2DSideScroller/Sprites/IdleFrames/IdleCycle1.uasset
+Content/2DSideScroller/Sprites/IdleFrames/IdleCycle2.uasset
+Content/2DSideScroller/Sprites/IdleFrames/IdleCycle3.uasset
+Content/2DSideScroller/Sprites/IdleFrames/IdleCycle4.uasset
+Content/2DSideScroller/Sprites/IdleFrames/IdleCycle5.uasset
+Content/2DSideScroller/Sprites/IdleFrames/IdleCycle6.uasset
+Content/2DSideScroller/Sprites/IdleFrames/IdleCycle7.uasset
+Content/2DSideScroller/Sprites/IdleFrames/IdleCycle8.uasset
+Content/2DSideScroller/Sprites/RunFrames/RunCycle_1.uasset
+Content/2DSideScroller/Sprites/RunFrames/RunCycle_10.uasset
+Content/2DSideScroller/Sprites/RunFrames/RunCycle_11.uasset
+Content/2DSideScroller/Sprites/RunFrames/RunCycle_12.uasset
+Content/2DSideScroller/Sprites/RunFrames/RunCycle_13.uasset
+Content/2DSideScroller/Sprites/RunFrames/RunCycle_14.uasset
+Content/2DSideScroller/Sprites/RunFrames/RunCycle_15.uasset
+Content/2DSideScroller/Sprites/RunFrames/RunCycle_16.uasset
+Content/2DSideScroller/Sprites/RunFrames/RunCycle_2.uasset
+Content/2DSideScroller/Sprites/RunFrames/RunCycle_3.uasset
+Content/2DSideScroller/Sprites/RunFrames/RunCycle_4.uasset
+Content/2DSideScroller/Sprites/RunFrames/RunCycle_5.uasset
+Content/2DSideScroller/Sprites/RunFrames/RunCycle_6.uasset
+Content/2DSideScroller/Sprites/RunFrames/RunCycle_7.uasset
+Content/2DSideScroller/Sprites/RunFrames/RunCycle_8.uasset
+Content/2DSideScroller/Sprites/RunFrames/RunCycle_9.uasset
+Content/2DSideScroller/Textures/2DBackground.uasset
+Content/2DSideScroller/Textures/2DBackgroundBlockAtlas.uasset
+Content/2DSideScroller/Textures/2DBackgroundTile.uasset
+Content/2DSideScroller/Textures/2DCharacter_IdleAnimAtlas.uasset
+Content/2DSideScroller/Textures/2DCharacter_RunAnimAtlas.uasset
+Content/2DSideScroller/Tileset/png/BG.png
+Content/2DSideScroller/Tileset/png/128px/objects/Diamond (1).png
+Content/2DSideScroller/Tileset/png/128px/objects/Diamond (2).png
+Content/2DSideScroller/Tileset/png/128px/objects/Diamond (3).png
+Content/2DSideScroller/Tileset/png/128px/objects/Egg (1).png
+Content/2DSideScroller/Tileset/png/128px/objects/Egg (2).png
+Content/2DSideScroller/Tileset/png/128px/objects/Mushroom.png
+Content/2DSideScroller/Tileset/png/128px/objects/Stone (1).png
+Content/2DSideScroller/Tileset/png/128px/objects/Stone (2).png
+Content/2DSideScroller/Tileset/png/128px/objects/Stone (3).png
+Content/2DSideScroller/Tileset/png/128px/objects/Tree (1).png
+Content/2DSideScroller/Tileset/png/128px/objects/Tree (2).png
+Content/2DSideScroller/Tileset/png/128px/objects/Tree (3).png
+Content/2DSideScroller/Tileset/png/128px/objects/Vines (1).png
+Content/2DSideScroller/Tileset/png/128px/objects/Vines (2).png
+Content/2DSideScroller/Tileset/png/128px/objects/Vines (3).png
+Content/2DSideScroller/Tileset/png/128px/tiles/Tile (1).png
+Content/2DSideScroller/Tileset/png/128px/tiles/Tile (10).png
+Content/2DSideScroller/Tileset/png/128px/tiles/Tile (11).png
+Content/2DSideScroller/Tileset/png/128px/tiles/Tile (12).png
+Content/2DSideScroller/Tileset/png/128px/tiles/Tile (13).png
+Content/2DSideScroller/Tileset/png/128px/tiles/Tile (14).png
+Content/2DSideScroller/Tileset/png/128px/tiles/Tile (15).png
+Content/2DSideScroller/Tileset/png/128px/tiles/Tile (16).png
+Content/2DSideScroller/Tileset/png/128px/tiles/Tile (17).png
+Content/2DSideScroller/Tileset/png/128px/tiles/Tile (18).png
+Content/2DSideScroller/Tileset/png/128px/tiles/Tile (19).png
+Content/2DSideScroller/Tileset/png/128px/tiles/Tile (2).png
+Content/2DSideScroller/Tileset/png/128px/tiles/Tile (20).png
+Content/2DSideScroller/Tileset/png/128px/tiles/Tile (21).png
+Content/2DSideScroller/Tileset/png/128px/tiles/Tile (22).png
+Content/2DSideScroller/Tileset/png/128px/tiles/Tile (23).png
+Content/2DSideScroller/Tileset/png/128px/tiles/Tile (24).png
+Content/2DSideScroller/Tileset/png/128px/tiles/Tile (25).png
+Content/2DSideScroller/Tileset/png/128px/tiles/Tile (26).png
+Content/2DSideScroller/Tileset/png/128px/tiles/Tile (27).png
+Content/2DSideScroller/Tileset/png/128px/tiles/Tile (28).png
+Content/2DSideScroller/Tileset/png/128px/tiles/Tile (29).png
+Content/2DSideScroller/Tileset/png/128px/tiles/Tile (3).png
+Content/2DSideScroller/Tileset/png/128px/tiles/Tile (30).png
+Content/2DSideScroller/Tileset/png/128px/tiles/Tile (31).png
+Content/2DSideScroller/Tileset/png/128px/tiles/Tile (32).png
+Content/2DSideScroller/Tileset/png/128px/tiles/Tile (33).png
+Content/2DSideScroller/Tileset/png/128px/tiles/Tile (34).png
+Content/2DSideScroller/Tileset/png/128px/tiles/Tile (35).png
+Content/2DSideScroller/Tileset/png/128px/tiles/Tile (36).png
+Content/2DSideScroller/Tileset/png/128px/tiles/Tile (37).png
+Content/2DSideScroller/Tileset/png/128px/tiles/Tile (38).png
+Content/2DSideScroller/Tileset/png/128px/tiles/Tile (39).png
+Content/2DSideScroller/Tileset/png/128px/tiles/Tile (4).png
+Content/2DSideScroller/Tileset/png/128px/tiles/Tile (40).png
+Content/2DSideScroller/Tileset/png/128px/tiles/Tile (41).png
+Content/2DSideScroller/Tileset/png/128px/tiles/Tile (42).png
+Content/2DSideScroller/Tileset/png/128px/tiles/Tile (5).png
+Content/2DSideScroller/Tileset/png/128px/tiles/Tile (6).png
+Content/2DSideScroller/Tileset/png/128px/tiles/Tile (7).png
+Content/2DSideScroller/Tileset/png/128px/tiles/Tile (8).png
+Content/2DSideScroller/Tileset/png/128px/tiles/Tile (9).png
+Content/2DSideScroller/Tileset/png/128px/tiles/Toxic (1).png
+Content/2DSideScroller/Tileset/png/128px/tiles/Toxic (2).png
+Content/2DSideScroller/Tileset/png/128px/tiles/Vines (1).png
+Content/2DSideScroller/Tileset/png/128px/tiles/Vines (2).png
+Content/2DSideScroller/Tileset/png/128px/tiles/Vines (3).png
+Content/2DSideScroller/Tileset/png/256px/objects/Diamond (1).png
+Content/2DSideScroller/Tileset/png/256px/objects/Diamond (2).png
+Content/2DSideScroller/Tileset/png/256px/objects/Diamond (3).png
+Content/2DSideScroller/Tileset/png/256px/objects/Egg (1).png
+Content/2DSideScroller/Tileset/png/256px/objects/Egg (2).png
+Content/2DSideScroller/Tileset/png/256px/objects/Mushroom.png
+Content/2DSideScroller/Tileset/png/256px/objects/Stone (1).png
+Content/2DSideScroller/Tileset/png/256px/objects/Stone (2).png
+Content/2DSideScroller/Tileset/png/256px/objects/Stone (3).png
+Content/2DSideScroller/Tileset/png/256px/objects/Tree (1).png
+Content/2DSideScroller/Tileset/png/256px/objects/Tree (2).png
+Content/2DSideScroller/Tileset/png/256px/objects/Tree (3).png
+Content/2DSideScroller/Tileset/png/256px/objects/Vines (1).png
+Content/2DSideScroller/Tileset/png/256px/objects/Vines (2).png
+Content/2DSideScroller/Tileset/png/256px/objects/Vines (3).png
+Content/2DSideScroller/Tileset/png/256px/objects/Vines.png
+Content/2DSideScroller/Tileset/png/256px/tiles/Tile (1).png
+Content/2DSideScroller/Tileset/png/256px/tiles/Tile (10).png
+Content/2DSideScroller/Tileset/png/256px/tiles/Tile (11).png
+Content/2DSideScroller/Tileset/png/256px/tiles/Tile (12).png
+Content/2DSideScroller/Tileset/png/256px/tiles/Tile (13).png
+Content/2DSideScroller/Tileset/png/256px/tiles/Tile (14).png
+Content/2DSideScroller/Tileset/png/256px/tiles/Tile (15).png
+Content/2DSideScroller/Tileset/png/256px/tiles/Tile (16).png
+Content/2DSideScroller/Tileset/png/256px/tiles/Tile (17).png
+Content/2DSideScroller/Tileset/png/256px/tiles/Tile (18).png
+Content/2DSideScroller/Tileset/png/256px/tiles/Tile (19).png
+Content/2DSideScroller/Tileset/png/256px/tiles/Tile (2).png
+Content/2DSideScroller/Tileset/png/256px/tiles/Tile (20).png
+Content/2DSideScroller/Tileset/png/256px/tiles/Tile (21).png
+Content/2DSideScroller/Tileset/png/256px/tiles/Tile (22).png
+Content/2DSideScroller/Tileset/png/256px/tiles/Tile (23).png
+Content/2DSideScroller/Tileset/png/256px/tiles/Tile (24).png
+Content/2DSideScroller/Tileset/png/256px/tiles/Tile (25).png
+Content/2DSideScroller/Tileset/png/256px/tiles/Tile (26).png
+Content/2DSideScroller/Tileset/png/256px/tiles/Tile (27).png
+Content/2DSideScroller/Tileset/png/256px/tiles/Tile (28).png
+Content/2DSideScroller/Tileset/png/256px/tiles/Tile (29).png
+Content/2DSideScroller/Tileset/png/256px/tiles/Tile (3).png
+Content/2DSideScroller/Tileset/png/256px/tiles/Tile (30).png
+Content/2DSideScroller/Tileset/png/256px/tiles/Tile (31).png
+Content/2DSideScroller/Tileset/png/256px/tiles/Tile (32).png
+Content/2DSideScroller/Tileset/png/256px/tiles/Tile (33).png
+Content/2DSideScroller/Tileset/png/256px/tiles/Tile (34).png
+Content/2DSideScroller/Tileset/png/256px/tiles/Tile (35).png
+Content/2DSideScroller/Tileset/png/256px/tiles/Tile (36).png
+Content/2DSideScroller/Tileset/png/256px/tiles/Tile (37).png
+Content/2DSideScroller/Tileset/png/256px/tiles/Tile (38).png
+Content/2DSideScroller/Tileset/png/256px/tiles/Tile (39).png
+Content/2DSideScroller/Tileset/png/256px/tiles/Tile (4).png
+Content/2DSideScroller/Tileset/png/256px/tiles/Tile (40).png
+Content/2DSideScroller/Tileset/png/256px/tiles/Tile (41).png
+Content/2DSideScroller/Tileset/png/256px/tiles/Tile (42).png
+Content/2DSideScroller/Tileset/png/256px/tiles/Tile (5).png
+Content/2DSideScroller/Tileset/png/256px/tiles/Tile (6).png
+Content/2DSideScroller/Tileset/png/256px/tiles/Tile (7).png
+Content/2DSideScroller/Tileset/png/256px/tiles/Tile (8).png
+Content/2DSideScroller/Tileset/png/256px/tiles/Tile (9).png
+Content/2DSideScroller/Tileset/png/256px/tiles/Toxic (1).png
+Content/2DSideScroller/Tileset/png/256px/tiles/Toxic (2).png
+Content/2DSideScroller/Tileset/png/256px/tiles/Vines (1).png
+Content/2DSideScroller/Tileset/png/256px/tiles/Vines (2).png
+Content/2DSideScroller/Tileset/png/256px/tiles/Vines (3).png
+Content/2DSideScroller/Tileset/vector/ai/Tile.ai
+Content/2DSideScroller/Tileset/vector/ai/TilePrev.ai
+Content/2DSideScroller/Tileset/vector/cdr/Tile.cdr
+Content/2DSideScroller/Tileset/vector/cdr/TilePrev.cdr
+Content/2DSideScroller/Tileset/vector/eps/Tile.eps
+Content/2DSideScroller/Tileset/vector/eps/TilePrev.eps
+Content/2DSideScroller/Tileset/vector/svg/Tile.svg
+Content/2DSideScroller/Tileset/vector/svg/TilePrev.svg
+Content/2DSideScrollerCPP/Blueprints/BP_2DSideScrollerCharacter.uasset
+Content/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.umap
+Content/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap_BuiltData.uasset
+Saved/Logs/Maxpro.log
