@@ -40,6 +40,19 @@ protected:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Animations)
 	class UPaperFlipbook* IdleAnimation;
 
+	// The animation to play while jumping
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Animations)
+	class UPaperFlipbook* JumpingAnimation;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Animations)
+	class UPaperFlipbook* AttackSwordAnimation;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Animations)
+	class UPaperFlipbook* DefendAnimation;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Animations)
+	class UPaperFlipbook* CrouchingAnimation;
+
 	/** Called to choose the correct animation to play based on the character's movement state */
 	void UpdateAnimation();
 
@@ -61,8 +74,33 @@ protected:
 public:
 	AMaxproCharacter();
 
+	UFUNCTION(BlueprintCallable, Category=Character)
+	void AttackSword();
+
+	UFUNCTION(BlueprintCallable, Category=Character)
+	void StopAttackSword();
+
+	UFUNCTION(BlueprintCallable, Category=Character)
+	void Defend();
+
+	UFUNCTION(BlueprintCallable, Category=Character)
+	void StopDefend();
+
+	UFUNCTION(BlueprintCallable, Category=Character)
+	void Crouching();
+
+	UFUNCTION(BlueprintCallable, Category=Character)
+	void StopCrouching();
+
 	/** Returns SideViewCameraComponent subobject **/
 	FORCEINLINE class UCameraComponent* GetSideViewCameraComponent() const { return SideViewCameraComponent; }
 	/** Returns CameraBoom subobject **/
 	FORCEINLINE class USpringArmComponent* GetCameraBoom() const { return CameraBoom; }
+
+private:
+	bool bSwording;
+
+	bool bDefending;
+
+	bool bCrouching;
 };

@@ -74,6 +74,40 @@ AMaxproCharacter::AMaxproCharacter()
 	// Enable replication on the Sprite component so animations show up when networked
 	GetSprite()->SetIsReplicated(true);
 	bReplicates = true;
+
+	bSwording = false;
+	bDefending = false;
+	bCrouching = false;
+}
+
+void AMaxproCharacter::AttackSword()
+{
+	bSwording = true;
+}
+
+void AMaxproCharacter::StopAttackSword()
+{
+	bSwording = false;
+}
+
+void AMaxproCharacter::Defend()
+{
+	bDefending = true;
+}
+
+void AMaxproCharacter::StopDefend()
+{
+	bDefending = false;
+}
+
+void AMaxproCharacter::Crouching()
+{
+	bCrouching = true;
+}
+
+void AMaxproCharacter::StopCrouching()
+{
+	bCrouching = false;
 }
 
 //////////////////////////////////////////////////////////////////////////
@@ -86,6 +120,28 @@ void AMaxproCharacter::UpdateAnimation()
 
 	// Are we moving or standing still?
 	UPaperFlipbook* DesiredAnimation = (PlayerSpeedSqr > 0.0f) ? RunningAnimation : IdleAnimation;
+
+	// Override the running/jumping animation with the jumping animation if we are jumping.
+	if (GetCharacterMovement()->IsFalling())
+	{
+		DesiredAnimation = JumpingAnimation;
+	}
+
+	if (bSwording)
+	{
+		DesiredAnimation = AttackSwordAnimation;
+	}
+
+	if (bDefending)
+	{
+		DesiredAnimation = DefendAnimation;
+	}
+
+	if (bCrouching)
+	{
+		DesiredAnimation = CrouchingAnimation;
+	}
+
 	if( GetSprite()->GetFlipbook() != DesiredAnimation 	)
 	{
 		GetSprite()->SetFlipbook(DesiredAnimation);
@@ -108,6 +164,16 @@ void AMaxproCharacter::SetupPlayerInputComponent(class UInputComponent* PlayerIn
 	// Note: the 'Jump' action and the 'MoveRight' axis are bound to actual keys/buttons/sticks in DefaultInput.ini (editable from Project Settings..Input)
 	PlayerInputComponent->BindAction("Jump", IE_Pressed, this, &ACharacter::Jump);
 	PlayerInputComponent->BindAction("Jump", IE_Released, this, &ACharacter::StopJumping);
+
+	PlayerInputComponent->BindAction("AttackSword", IE_Pressed, this, &AMaxproCharacter::AttackSword);
+	PlayerInputComponent->BindAction("AttackSword", IE_Released, this, &AMaxproCharacter::StopAttackSword);
+
+	PlayerInputComponent->BindAction("Defend", IE_Pressed, this, &AMaxproCharacter::Defend);
+	PlayerInputComponent->BindAction("Defend", IE_Released, this, &AMaxproCharacter::StopDefend);
+
+	PlayerInputComponent->BindAction("Crouch", IE_Pressed, this, &AMaxproCharacter::Crouching);
+	PlayerInputComponent->BindAction("Crouch", IE_Released, this, &AMaxproCharacter::StopCrouching);
+
 	PlayerInputComponent->BindAxis("MoveRight", this, &AMaxproCharacter::MoveRight);
 
 	PlayerInputComponent->BindTouch(IE_Pressed, this, &AMaxproCharacter::TouchStarted);
